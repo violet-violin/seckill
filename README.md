@@ -41,5 +41,5 @@ IDEA + Maven + SSM框架 + MySQL + Redis
 ### SuccessKilledDao接口测试
 接下来进行SuccessKilledDao接口相关方法的测试，依旧使用IDEA快捷键`shift+command+T`快速生成其方法的相应测试类SuccessKilledDaoTest。
 
-注：学习时参考了codingXiaxw's blog（http://codingxiaxw.cn/2016/11/27/53-maven-ssm-seckill-dao/）来做电子笔记。
+注：学习时参考了codingXiaxw's blog（http://codingxiaxw.cn/2016/11/27/53-maven-ssm-seckill-dao/） 来做电子笔记。
 
